@@ -16,6 +16,3 @@ Here are some ideas to get you started:
 -->
 
 I'm currently learning programming skills, robotics and electrical networks.
-
-"If you want to live a happy life, tie it to a goal, not to people or things."
-- Albert Einstein
