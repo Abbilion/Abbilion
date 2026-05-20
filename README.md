@@ -1,5 +1,3 @@
-### Welcome to my profile! 
-
 ![Po](po.png)
 
 <!--
